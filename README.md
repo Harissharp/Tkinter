@@ -4,3 +4,7 @@ Tkinter is a libary in python focused around a GUI interface, its extremely usef
 All imports are preinstalled in python so you don't need to install external packages.
 any questions on how it works feel free to ask 
 
+Update 2:
+New features ncluding ISBN and value checking as well as GUI enchancements !
+
+
